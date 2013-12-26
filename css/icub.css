@@ -1,4 +1,4 @@
-/* vim: set sw=4 ts=4 fds:marker: */
+/* vim: set sw=4 ts=4 fdm:marker: */
 
 /* COLORS DEFINITION:
  * - background -- #282828
@@ -60,6 +60,7 @@ footer a {
 article {
     margin:0;
     padding-left:20px;
+    margin-bottom:20px;
 }
 
 #blank {
