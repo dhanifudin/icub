@@ -1,0 +1,21 @@
+/* vim: set sw=4 ts=4 fdm=marker: */
+
+section h2 {
+    display:inline;
+}
+
+a:hover {
+    text-decoration:none;
+}
+
+a:active {
+    text-decoration:none;
+}
+
+img {
+    width:60%;
+}
+
+.caption {
+    width:30%;
+}
